@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\bin\Debug\netcoreapp3.0\shopping_list.exe
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\bin\Debug\netcoreapp3.0\shopping_list.deps.json
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\bin\Debug\netcoreapp3.0\shopping_list.runtimeconfig.json
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\bin\Debug\netcoreapp3.0\shopping_list.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\bin\Debug\netcoreapp3.0\shopping_list.dll
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\bin\Debug\netcoreapp3.0\shopping_list.pdb
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\obj\Debug\netcoreapp3.0\shopping_list.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\obj\Debug\netcoreapp3.0\shopping_list.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\obj\Debug\netcoreapp3.0\shopping_list.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\obj\Debug\netcoreapp3.0\shopping_list.dll
+C:\Users\Sirje\Desktop\shopping_list\shopping_list\obj\Debug\netcoreapp3.0\shopping_list.pdb
