@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace list
@@ -17,6 +17,7 @@ namespace list
 
             Console.WriteLine("Add idems in shoppinglist: ");
             userInput = Console.ReadLine();
+           Console.Clear();
             string[] list = userInput.Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries);
             for (int i = 0; i < list.Length; i++)
             {
@@ -40,6 +41,7 @@ namespace list
                 Console.WriteLine("What do you want to add?");
                 userChoice = Console.ReadLine();
                 userList.Add(userChoice);
+                Console.Clear();
 
                 int i = 1;
                 foreach (string element in userList)
@@ -60,6 +62,7 @@ namespace list
                 Console.WriteLine("What you want to remove?");
                 userItem = Console.ReadLine();
                 userList.Remove(userItem);
+                Console.Clear();
 
                 int i = 1;
                 foreach (string element in userList)
